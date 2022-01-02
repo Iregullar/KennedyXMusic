@@ -10,7 +10,7 @@ aiofiles
 asyncio
 youtube-search
 search-engine-parser
-ffmpeg-python
+ffmpeg-pytho
 pillow
 future
 psutil
